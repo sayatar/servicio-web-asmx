@@ -1,0 +1,11 @@
+D:\DesarrolloApli\apl2\sesion2\ServicioTiendita\pe.com.tiendita.bal\bin\Debug\pe.com.tiendita.bal.dll
+D:\DesarrolloApli\apl2\sesion2\ServicioTiendita\pe.com.tiendita.bal\bin\Debug\pe.com.tiendita.bal.pdb
+D:\DesarrolloApli\apl2\sesion2\ServicioTiendita\pe.com.tiendita.bal\bin\Debug\pe.com.tiendita.bo.dll
+D:\DesarrolloApli\apl2\sesion2\ServicioTiendita\pe.com.tiendita.bal\bin\Debug\pe.com.tiendita.dal.dll
+D:\DesarrolloApli\apl2\sesion2\ServicioTiendita\pe.com.tiendita.bal\bin\Debug\pe.com.tiendita.bo.pdb
+D:\DesarrolloApli\apl2\sesion2\ServicioTiendita\pe.com.tiendita.bal\bin\Debug\pe.com.tiendita.dal.pdb
+D:\DesarrolloApli\apl2\sesion2\ServicioTiendita\pe.com.tiendita.bal\obj\Debug\pe.com.tiendita.bal.csproj.AssemblyReference.cache
+D:\DesarrolloApli\apl2\sesion2\ServicioTiendita\pe.com.tiendita.bal\obj\Debug\pe.com.tiendita.bal.csproj.CoreCompileInputs.cache
+D:\DesarrolloApli\apl2\sesion2\ServicioTiendita\pe.com.tiendita.bal\obj\Debug\pe.com.t.1E376958.Up2Date
+D:\DesarrolloApli\apl2\sesion2\ServicioTiendita\pe.com.tiendita.bal\obj\Debug\pe.com.tiendita.bal.dll
+D:\DesarrolloApli\apl2\sesion2\ServicioTiendita\pe.com.tiendita.bal\obj\Debug\pe.com.tiendita.bal.pdb
